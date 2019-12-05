@@ -35,10 +35,5 @@ router.post('/burger/eat/:id', function(req, res){
 });
 
 
-
-
-
-
-
 // Export routes for server.js to use.
 module.exports = router;
