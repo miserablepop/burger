@@ -13,8 +13,8 @@ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers th
 ## npm Packages
 
 * [Express](https://www.npmjs.com/package/express)
-* [Express-Handlebars] (https://www.npmjs.com/package/express-handlebars)
-* [mysql] (https://www.npmjs.com/package/mysql)
+* [Express-Handlebars](https://www.npmjs.com/package/express-handlebars)
+* [mysql](https://www.npmjs.com/package/mysql)
 
 
 ## Getting Started 
