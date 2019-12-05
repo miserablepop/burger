@@ -20,6 +20,12 @@ router.get('/index', function(req, res){
     });
 });
 
+// New Burger
+router.post('/burger/create', function(req, res){
+    burger.insertOne(req.body.burger_name, function(){
+        res.redirect('/index');
+    });
+});
 
 
 
