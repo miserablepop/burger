@@ -7,7 +7,7 @@ var connection;
 //   host: "localhost",
 //   port: 3306,
 //   user: "root",
-//   password: "Otto22.rents",
+//   password: "",
 //   database: "burgers_db"
 // });
 
